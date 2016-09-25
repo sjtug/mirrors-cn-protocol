@@ -29,7 +29,7 @@ mirrors-cn.com 是一个利用DNS智能解析以实现国内软件源的智能�
 |:---:|:-----:|
 |重定向源 | archlinux.mirrors-cn.com/archlinux |
 | 非重定向源 | archlinux-noredir.mirrors-cn.com/archlinux |
-| 说明 | 同步间隔不应短于3小时，满足[https://wiki.archlinux.org/index.php/DeveloperWiki:NewMirrors](官方)对Tier2 Mirror的要求 | 
+| 说明 | 同步间隔不应长于3小时，满足[https://wiki.archlinux.org/index.php/DeveloperWiki:NewMirrors](官方)对Tier2 Mirror的要求 | 
 
 #### 当前站点
 ##### 重定向源
